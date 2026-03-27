@@ -1,0 +1,9 @@
+Remove the "Start Music" button and its handler
+
+Remove the "🎵 Старт" button from the keyboard and its corresponding text handler in bot.ts.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: a0c90583-8bbc-448f-91ca-05299a72e93d
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 8eae54ef-386d-4bbd-a33e-b054ca0f211e
+Replit-Helium-Checkpoint-Created: true
